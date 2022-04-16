@@ -4,7 +4,7 @@ from brownie import (
     network,
     accounts
 )
-from scripts.utils import get_account, get_contract
+from scripts.utils import get_account
 from web3 import Web3
 
 def main():
